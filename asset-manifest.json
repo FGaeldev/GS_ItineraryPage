@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/FGaeldev/GS_ItineraryPage/static/css/main.a414e354.css",
-    "main.js": "/FGaeldev/GS_ItineraryPage/static/js/main.0c3531a3.js",
+    "main.js": "/FGaeldev/GS_ItineraryPage/static/js/main.d585d80f.js",
     "static/js/453.cab0ad4e.chunk.js": "/FGaeldev/GS_ItineraryPage/static/js/453.cab0ad4e.chunk.js",
     "index.html": "/FGaeldev/GS_ItineraryPage/index.html",
     "main.a414e354.css.map": "/FGaeldev/GS_ItineraryPage/static/css/main.a414e354.css.map",
-    "main.0c3531a3.js.map": "/FGaeldev/GS_ItineraryPage/static/js/main.0c3531a3.js.map",
+    "main.d585d80f.js.map": "/FGaeldev/GS_ItineraryPage/static/js/main.d585d80f.js.map",
     "453.cab0ad4e.chunk.js.map": "/FGaeldev/GS_ItineraryPage/static/js/453.cab0ad4e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a414e354.css",
-    "static/js/main.0c3531a3.js"
+    "static/js/main.d585d80f.js"
   ]
 }
